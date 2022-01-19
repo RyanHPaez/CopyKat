@@ -1,2 +1,0 @@
-# CopyKat
-copy cat css
